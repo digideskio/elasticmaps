@@ -1,0 +1,21 @@
+{
+  "name": "elasticmaps",
+  "version": "0.1.0",
+  "description": "elasticmaps",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elasticmaps"
+  ],
+  "author": "Patrick Leary <patrick.r.leary@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "*",
+    "underscore": "*",
+    "mapnik": "*",
+    "sphericalmercator": "*",
+    "ngeohash": "*"
+  }
+}
